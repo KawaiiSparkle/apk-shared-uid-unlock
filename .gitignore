@@ -1,0 +1,9 @@
+out/
+dumps/
+*_dumps/
+*.jks
+*.keystore
+__pycache__/
+*.pyc
+*.apk
+!tests/fixtures/*.apk
